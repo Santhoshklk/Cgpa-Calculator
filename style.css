@@ -1,0 +1,75 @@
+calculator-box {
+    width: 50%;
+    height: auto;
+    border: 2px solid #3D515C;
+    margin: 100px auto;
+    }
+    h1 {
+    padding: 15px;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid #3D515C;
+    /* background-color: #3D515C; */
+    }
+    p{
+    padding: 20px;
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+    }
+    #course-wrapper, form {
+    color: black;
+    padding-left: 10px;
+    margin: 0 auto;
+    text-align: center;
+    }
+    input{
+    border: none;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+    }
+    select{
+    padding: 15px;
+    border: none;
+    border-radius: 7.5px;
+    width: 20%;
+    }
+    button {
+    width: 15%;
+    height: 40px;
+    padding: 1px;
+    margin: 5px auto;
+    margin-left: 10px;
+    border-width: 3px;
+    border-radius: 10%;
+    border-style: solid;
+    }
+    .btn {
+    width: 100%;
+    padding: 10px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    }
+    .bt1{
+    width: 100%;
+    padding: 10px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    }
+    .lastp {
+    border: 1px solid #3D515C;
+    /* background-color: #3D515C; */
+    }
+    .lastp p {
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    }
+    
